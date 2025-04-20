@@ -2,7 +2,7 @@ import os
 
 #Database 
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://molasa7348:29TiLiVemOcKUmxf@cluster0.9dkky.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://molasa7348:29T.9dkky.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
 #Shortner (token system) 
